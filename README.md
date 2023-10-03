@@ -5,7 +5,7 @@
 This project is my first refactor that originally was a weekly challenge during my edX Front-end Web-development bootcamp course.
 My motivation was to accurately follow the instructions I was given for the refactor and therefore replicate a result that was not only identical in looks, but fundamentally improved the code semenantic structure and accessibility.
 
-The learning process has been teaching me further how to use HTML and CSS whilst consolidating foundational knowledge and expanding on newly found abilities.
+The learning process has been teaching me further how to use HTML and CSS whilst consolidating foundational knowledge and expanding on newly found abilities. Additionally, the use of GitHub Copilot and ChatGPT to generate comments for my code were incredibly useful, however, found to require editing on occasion.
 
 ## Installation
 
