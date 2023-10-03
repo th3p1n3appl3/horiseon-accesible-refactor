@@ -17,6 +17,4 @@ The main usage of this project is to underline the importance of semantic tags b
 
 ## License
 
-## The MIT license has been chosen for this project.
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+The MIT license has been chosen for this project.
